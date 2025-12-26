@@ -17,8 +17,9 @@
 ---
 
 ### 📈 GitHub Stats
-![Geembeey's Stats](https://github-readme-stats.vercel.app/api?username=Geembeey&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geembeey&layout=compact&theme=radical)
+
+![Geembeey's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Geembeey&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Geembeey&layout=compact&theme=radical&hide_border=true)
 
 ---
 
