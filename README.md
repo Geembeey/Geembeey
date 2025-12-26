@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Glennmar
 
-<!--
-**Geembeey/Geembeey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Engineering Student | IoT & Networking Enthusiast
 
-Here are some ideas to get you started:
+I spend my time exploring how devices connect and communicate to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 📈 GitHub Stats
+![Geembeey's stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Geembeey&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Geembeey&layout=compact&theme=tokyonight)
+
+"The hardware is the bones, the software is the soul, and the network is the pulse."
